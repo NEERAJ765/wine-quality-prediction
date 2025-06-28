@@ -1,0 +1,11 @@
+calucalating the quality of wine buy the chemical parameters
+workflow:
+data analysis 
+data cleaning
+train test split
+random forest is used
+trained random forest model 
+
+
+
+incode explanation
